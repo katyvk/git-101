@@ -2,6 +2,11 @@ body{
 	font-family: Helvetica; 
 }
 
+h1{
+	font-weight: 100;
+	font-family: Helvetica
+}
+
 #logo{
 	height: 80px; 
 	width: 80px; 
