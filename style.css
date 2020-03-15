@@ -23,7 +23,11 @@ h1{
 }
 
 .btn-about {
-  color: black;
+	display: flex;
+	text-align: center;
+	justify-content: center;
+  color: #999999;
+  text-decoration: none;
   border: 1px solid #999999;
   padding: 10px 15px;
   border-radius: 50px;
