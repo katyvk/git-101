@@ -22,8 +22,8 @@ h1{
 	flex-direction: column;
 }
 
-.btn-about {
-  color: #999999;
+#btn-about {
+  color: black;
   border: 1px solid #999999;
   padding: 10px 15px;
   border-radius: 50px;
@@ -31,8 +31,7 @@ h1{
   opacity: 0.6;
 }
 
-.btn-about:hover {
-  opacity: 1;
+#btn-about:hover {
   text-decoration: none;
   color: #999999;
 }
